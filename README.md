@@ -12,20 +12,20 @@ To run this project locally, follow these steps:
 
 1. Clone this repository to your local machine.
 ```
-$ git clone https://github.com/mehmeteminavcil/brainwave.git
+ git clone https://github.com/mehmeteminavcil/brainwave.git
 ```
 
 2. Navigate to the project directory and Install dependencies.
 ```
-$ npm install
+ npm install
 ```
 3. Start the development server.
 ```
-$ npm run dev
+ npm run dev
 ```
 4. Open your web browser and navigate to :
 ```
-$ http://localhost:5173/
+ http://localhost:5173/
 ```
 
 ## Technologies Used
